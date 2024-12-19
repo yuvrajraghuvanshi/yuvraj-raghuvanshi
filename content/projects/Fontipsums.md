@@ -6,7 +6,7 @@ external: 'https://advice-app-7.netlify.app/'
 tech:
   - HTML
   - CSS
-  showInProjects: true
+showInProjects: true
 ---
 
 A simple advice app which provide different advice to users
