@@ -1,15 +1,14 @@
 ---
-date: '2016-04-01'
-title: 'CourseSource'
-github: 'https://github.com/bchiang7/WebDevSpring2016/tree/master/public/project'
+date: '2024-07-01'
+title: 'Slack App'
+github: 'https://github.com/yuvrajraghuvanshi/slack_app'
 external: ''
 tech:
-  - Angular
   - Node
   - Express
   - MongoDB
-company: 'Northeastern'
-showInProjects: false
+# company: 'Northeastern'
+showInProjects: true
 ---
 
-Web application built on the MEAN (MongoDB, Express, Angular, Node) stack with the intention of providing Northeastern students a better experience browsing the courses offered at Northeastern.
+Created a slack app where users can join the channel and send the message through apis.

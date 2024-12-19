@@ -1,13 +1,15 @@
 ---
-date: '2018-10-01'
-title: 'Flagship Pioneering'
-github: ''
-external: 'https://www.flagshippioneering.com/'
+date: '2022-10-01'
+title: 'Data Visualization Dashboard'
+github: 'https://github.com/yuvrajraghuvanshi/Data_visualization_frontend'
+external: 'https://github.com/yuvrajraghuvanshi/Data_visualization_frontend'
 tech:
-  - Craft CMS
+  - React.js
   - Chart.js
+  - Node.js
+  - Mongodb
 company: 'Upstatement'
-showInProjects: false
+showInProjects: true
 ---
 
-A marketing site for an ambitious life sciences venture capital company.
+A data visualization dashboard which is shown in form of charts.

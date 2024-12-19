@@ -1,14 +1,14 @@
 ---
 date: '2018-12-01'
-title: 'Devoted Health'
+title: 'Nyca Global'
 github: ''
-external: 'https://www.devoted.com/'
+external: 'https://nyca-global.vercel.app/'
 tech:
-  - Gatsby
+  - React
   - TypeScript
-  - Algolia
-company: 'Upstatement'
-showInProjects: false
+  # - Algolia
+company: 'NYCA'
+showInProjects: true
 ---
 
-A site for a revolutionary healthcare company, including an Algolia instant search integration
+A site for a revolutionary consulting company.

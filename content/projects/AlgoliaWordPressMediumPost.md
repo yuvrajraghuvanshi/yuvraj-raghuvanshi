@@ -1,14 +1,15 @@
 ---
-date: '2020-03-27'
-title: 'Integrating Algolia Search with WordPress Multisite'
-github: ''
-external: 'https://medium.com/stories-from-upstatement/integrating-algolia-search-with-wordpress-multisite-e2dea3ed449c'
+date: '2022-10-27'
+title: 'Social Media Web App'
+github: 'https://github.com/yuvrajraghuvanshi/social_media_frontend'
+external: 'https://github.com/yuvrajraghuvanshi/social_media_frontend'
 tech:
-  - Algolia
-  - WordPress
-  - PHP
-company: 'Upstatement'
+  - React.js
+  - Node.js
+  - MongoDB
+  - MUI
+company: 'Social Media'
 showInProjects: true
 ---
 
-Building a custom multisite compatible WordPress plugin to build global search with Algolia
+Build a social media app for users where they can see their post and like-unlike the post. Follow and unfollow eachother and view the profile of users.

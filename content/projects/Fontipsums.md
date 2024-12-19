@@ -1,12 +1,12 @@
 ---
 date: '2016-01-01'
-title: 'Fontipsums'
-github: 'https://github.com/bchiang7/fontipsums/'
-external: 'http://bchiang7.github.io/fontipsums/'
+title: 'Advice app'
+github: 'https://github.com/yuvrajraghuvanshi/advice_app'
+external: 'https://advice-app-7.netlify.app/'
 tech:
   - HTML
-  - SCSS
-showInProjects: true
+  - CSS
+  showInProjects: true
 ---
 
-Simple website to display some of my favorite font pairings combined with some fun lorem ipsum variations found on the web.
+A simple advice app which provide different advice to users

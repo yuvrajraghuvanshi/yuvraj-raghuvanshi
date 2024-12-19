@@ -1,14 +1,14 @@
 ---
-date: '2018-05-01'
-title: 'blistabloc'
-github: ''
-external: 'https://blistabloc.com/'
+date: '2024-05-01'
+title: 'Logging-System'
+github: 'https://github.com/yuvrajraghuvanshi/logging-system-frontend'
+external: 'https://github.com/yuvrajraghuvanshi/logging-system-frontend'
 tech:
-  - WordPress
-  - Timber
-  - WooCommerce
-company: 'Scout'
-showInProjects: false
+  - React.js
+  - Node.js
+  - Rest Apis
+# company: 'Scout'
+showInProjects: true
 ---
 
-Custom WordPress theme and e-commerce site built with Timber and WooCommerce for blistabloc, a start-up selling the only reactive shoe insert that prevents blisters from forming.
+Created a logging system where admin will get the logs of the user's activity.

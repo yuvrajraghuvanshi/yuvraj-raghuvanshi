@@ -1,13 +1,11 @@
 ---
 date: '2022-01-20'
-title: 'Everytown Gun Law Rankings'
+title: 'Nyca.in'
 github: ''
-external: 'https://everytownresearch.org/rankings/'
+external: 'https://nyca-in.vercel.app/'
 tech:
-  - WordPress
-  - Timber
-  - PHP
-  - Airtable API
-company: 'Upstatement'
-showInProjects: false
+  - Next.js
+  - MUI
+company: 'NYCA'
+showInProjects: true
 ---
