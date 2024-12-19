@@ -1,15 +1,13 @@
 ---
 date: '2'
-title: 'Spotify Profile'
-cover: './demo.png'
+title: 'Code Pen Clone'
+cover: './demo.jpeg'
 github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+external: 'https://codepen-clone-seven-pi.vercel.app/'
 tech:
   - React
   - Styled Components
-  - Express
-  - Spotify API
-  - Heroku
+  - Codemirror
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+A CodePen Clone is a web application that mimics the core functionality of CodePen, a popular online code editor for front-end development. The project allows users to write and preview HTML, CSS, and JavaScript code in real-time, with the ability to share their work or embed it elsewhere.

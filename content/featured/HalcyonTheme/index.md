@@ -1,7 +1,7 @@
 ---
 date: '1'
 title: 'ChatGPT Clone'
-cover: './chatgpt.png'
+cover: './chatgpt.jpeg'
 github: 'https://github.com/yuvrajraghuvanshi/chatgpt-clone-frontend'
 external: 'https://chatgpt-clone-frontend-one.vercel.app/'
 tech:

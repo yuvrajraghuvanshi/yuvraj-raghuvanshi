@@ -1,16 +1,15 @@
 ---
 date: '3'
-title: 'Build a Spotify Connected App'
-cover: './course-card.png'
-external: 'https://www.newline.co/courses/build-a-spotify-connected-app'
-cta: 'https://www.newline.co/courses/build-a-spotify-connected-app'
+title: 'Social Media App'
+cover: './social.jpeg'
+external: 'https://github.com/yuvrajraghuvanshi/social_media_frontend'
+cta: 'https://github.com/yuvrajraghuvanshi/social_media_frontend'
 tech:
   - React
   - Express
-  - Spotify API
+  - Node.js
   - Styled Components
+  - MongoDB
 ---
 
-Having struggled with understanding how the Spotify OAuth flow works, I made the course I wish I could have had.
-
-Unlike tutorials that only cover a few concepts and leave you with half-baked GitHub repositories, this course covers everything from explaining the principles of REST APIs to implementing Spotify's OAuth flow and fetching API data in a React app. By the end of the course, you’ll have an app deployed to the internet you can add to your portfolio.
+A Social Media App allows users to connect, share content, and interact with others in a virtual community. It features user profiles, real-time messaging, and content sharing (like photos, videos, and posts). The app supports social interactions through likes, comments, and notifications.
