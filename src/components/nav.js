@@ -82,20 +82,20 @@ const StyledNav = styled.nav`
         }
       }
 
-      .logo-container {
-        position: relative;
-        z-index: 1;
-        svg {
-          fill: none;
-          user-select: none;
-          @media (prefers-reduced-motion: no-preference) {
-            transition: var(--transition);
-          }
-          polygon {
-            fill: var(--navy);
-          }
-        }
-      }
+      // .logo-container {
+      //   position: relative;
+      //   z-index: 1;
+      //   svg {
+      //     fill: none;
+      //     user-select: none;
+      //     @media (prefers-reduced-motion: no-preference) {
+      //       transition: var(--transition);
+      //     }
+      //     polygon {
+      //       fill: var(--navy);
+      //     }
+      //   }
+      // }
 
       &:hover,
       &:focus {
@@ -185,12 +185,7 @@ const Nav = ({ isHome }) => {
     <div className="logo" tabIndex="-1">
       {isHome ? (
         <a href="/" aria-label="home">
-          <div className="hex-container">
-            <IconHex />
-          </div>
-          <div className="logo-container">
-            <IconLogo />
-          </div>
+          {/* <div style={{ fontSize: '25px', fontWeight: '800' }}>Y</div> */}
         </a>
       ) : (
         <Link to="/" aria-label="home">
@@ -216,7 +211,7 @@ const Nav = ({ isHome }) => {
       <StyledNav>
         {prefersReducedMotion ? (
           <>
-            {Logo}
+            {/* {Logo} */}
 
             <StyledLinks>
               <ol>

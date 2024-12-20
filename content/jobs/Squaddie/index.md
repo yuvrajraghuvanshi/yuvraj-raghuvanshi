@@ -1,7 +1,7 @@
 ---
 date: '2021-12-03'
 title: 'Frontend Developer'
-company: 'SQUADDIE SOLUTIONS LLP'
+company: 'SQUADDIE'
 location: 'Indore'
 range: 'Dec - Feb 2022'
 # url: 'https://starry.com/'
