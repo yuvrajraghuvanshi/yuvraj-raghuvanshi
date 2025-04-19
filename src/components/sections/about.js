@@ -155,7 +155,7 @@ const About = () => {
             </p>
 
             <p>
-              Since then, I’ve had the opportunity to work with organizations like{' '}
+              Since then, I&apos;ve had the opportunity to work with organizations like{' '}
               <a href="https://chikitsa.io">a start-up</a>,{' '}
               <a href="https://attplgrouo.com"> and other Company</a>, gaining hands-on experience
               in full-stack development. My focus now is on creating accessible, user-centered
