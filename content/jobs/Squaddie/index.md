@@ -1,4 +1,5 @@
 ---
+order: 4
 date: '2021-12-03'
 title: 'Frontend Developer'
 company: 'SQUADDIE'

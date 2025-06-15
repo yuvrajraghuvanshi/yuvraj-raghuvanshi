@@ -1,11 +1,11 @@
 ---
-order: 2
+order: 1
 date: '2024-03-27'
-title: 'Full Stack Developer'
-company: 'ATTPL Group'
+title: 'Software Developer'
+company: 'Healthynfinity'
 location: 'Remote'
-range: 'Mar - Nov 2024'
-url: 'https://attplems.com/'
+range: 'Nov 2024 - Present'
+url: 'https://healthynfinity.com/'
 ---
 
 - Engineered microservices-based web applications using Node.js, MySQL (Sequelize ORM), and React.js; deployed on AWS EC2 with Docker containers and S3 for storage.
