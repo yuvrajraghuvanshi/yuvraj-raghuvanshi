@@ -126,11 +126,14 @@ const About = () => {
   }, []);
 
   const skills = [
-    'JavaScript (ES6+)',
+    'JavaScript',
     'TypeScript',
-    'ReactJS',
+    'HTML/CSS',
+    'React Native',
+    'React',
     'NextJS',
     'Node.js',
+    'Express.js',
     'Docker',
     'AWS',
     'MongoDB',
@@ -138,6 +141,7 @@ const About = () => {
     'Redis',
     'Firebase',
     'Socket.io',
+    'Shopify',
   ];
 
   return (
@@ -148,7 +152,7 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Yuvraj and I’m passionate about crafting exceptional digital
+              Hello! My name is Yuvraj and I&apos;m passionate about crafting exceptional digital
               experiences that make a difference. My journey into web development started back in
               2020 during my college days when I began exploring React.js to build interactive and
               dynamic web applications.
@@ -156,8 +160,9 @@ const About = () => {
 
             <p>
               Since then, I&apos;ve had the opportunity to work with organizations like{' '}
-              <a href="https://chikitsa.io">a start-up</a>,{' '}
-              <a href="https://attplgrouo.com"> and other Company</a>, gaining hands-on experience
+              <a href="https://chikitsa.io">Chikitsa</a>,{' '}
+              <a href="https://attplgrouo.com"> ATTPL Group</a> and{' '}
+              <a href="https://healthynfinity.com"> other start up</a>, gaining hands-on experience
               in full-stack development. My focus now is on creating accessible, user-centered
               products that make a difference.
               {/* Fast-forward to today, and I’ve had the privilege of working at{' '} */}
@@ -176,7 +181,7 @@ const About = () => {
               products for diverse domains.
             </p>
 
-            <p>Here are a few technologies I’ve been working with recently:</p>
+            <p>Here are a few technologies I&apos;ve been working with recently:</p>
           </div>
 
           <ul className="skills-list">
