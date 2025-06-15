@@ -67,8 +67,8 @@ const Hero = () => {
       I&apos;m a software engineer specializing in creating exceptional digital experiences through
       innovative design and development. Currently, I focus on building accessible, human-centered
       products at
-      <a href="https://attplems.com/" target="_blank" rel="noreferrer">
-        ATTPL Group
+      <a href="https://healthynfinity.com" rel="noreferrer">
+        Healthynfinity
       </a>
       .
     </p>
